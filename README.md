@@ -7,7 +7,7 @@ Hey peeps, this is my CV with my most recent experiences!
 
 
 ## Summary
-As a **Data Scientist and Astroparticle Physicist**, I have extensive experience in high-energy physics, advanced data analytics, and business intelligence. With over ten years of experience working in culturally diverse teams, I am multilingual and possess strong analytical and solution-oriented skills, adept at leveraging statistical modeling, machine learning, and predictive analytics to drive strategic decisions.
+As a **Data Scientist** and **Astroparticle Physicist**, I bring a robust academic background and extensive practical experience in high-energy physics, applying these to advanced data analytics, and business intelligence, by drawing parallels between complex data challenges and well-established problem-solving approaches in Physics. Utilizing both empirical methods and first principles, I excel in spearheading research and development projects across high-stakes environments such as financial services, healthcare, and scientific research sectors. My expertise in statistical modeling, machine learning, and predictive analytics allows me to drive strategic decisions and foster innovation effectively. I am adept at crafting impactful data-driven solutions that provide actionable insights and enhance operational efficiencies. With over ten years of experience working in culturally and ethnically diverse teams, I am multilingual and possess a deep understanding of and sensitivity towards different cultures. My analytical and solution-oriented mindset, combined with strong communication skills, positions me to help businesses uncover insights in data and make informed, data-driven decisions.
 
 ---
 
