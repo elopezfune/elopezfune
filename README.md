@@ -115,7 +115,6 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 
 ---
 
-
 ## 🌐 **Languages**
 
 - 🇬🇧 🇺🇸 English (proficient)
@@ -124,6 +123,15 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 - 🇪🇸 Spanish (native)
 
 ---
+
+## 📖 **Scientific Publications**
+
+- Check the link [![Inspire HEP](https://img.shields.io/badge/-Inspire--HEP-red?style=flat)](https://inspirehep.net/authors/1270020)
+
+---
+
+
+
 
 ## 📫 **Contact Information**
 
