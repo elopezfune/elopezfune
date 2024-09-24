@@ -133,6 +133,28 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
  
 ---
 
-## 🌱 **Interests**
+## 💡 **Interests**
 
 Photography, Traveling, Fitness, Cooking, Cocktail Creation
+
+---
+
+## 🏆 **Honors & Awards**
+- Jury's very favorite of the photography contest *Un (dix) dans l'image*, issued by Wipplay photography review.
+- 3rd place of the photography contest *ABYSSES*, issued by Wipplay digital photography magazine in partnership with Jeu de Paume, Paris, France.
+- 3rd place of the photography contest *Teenage Portrait(s)*, issued by Wipplay digital photography magazine in partnership with Rendez-Vous Photographique Ville De Vichy, Paris, France.
+- 3rd place of the photography contest *H2O*, issued by Wipplay digital photography magazine in partnership with Lomography.
+- 3rd place of the photography contest *HER WAY*, issued by Wipplay digital photography magazine in partnership with Bioderma.
+- 1st place of the photography contest *IL ETAIT UNE FOIS DEMAIN*, issued by Caisses d’Epargne et Polka Magazine.
+- 1st place of the photography contest *HOT SNAPSHOT*, issued by Focus Numerique et Wipplay photography review
+- 2nd place of the photography contest *ANIMAUX*, issued by Wipplay photography review.
+- 3rd place of the photography contest *STAINED GLASS*, issued by Cité de l’architecture et du Patrimoine.
+- Jury's very favorite of the photography contest *MA VIE DES HALLES*, issued by Wipplay photography review.
+- *Scholarship*: Joint PhD Programme ICTP/SISSA in Astroparticle Physics, issued by Abdus Salam International Centre for Theoretical Physics (ICTP), and Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy.
+- *Scholarship*: Postgraduate Diploma Programme in High Energy Physics, issued by Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
+- Award to the *Best Research Work done by a Young Physicist* of the XII Symposium of the Cuban Society of Physics 2011, issued by Cuban Society of Physics, associated with Institute of Cybernetics Mathematics and Physics.
+- Mention to the ``Best Researcher Student'' of the Physics Faculty's 2009 promotion.
+
+
+
+
