@@ -126,11 +126,9 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 
 ## 📖 **Scientific Publications**
 
-- Check the link [![Inspire HEP](https://img.shields.io/badge/-Inspire--HEP-red?style=flat)](https://inspirehep.net/authors/1270020)
+- [Check the link](https://inspirehep.net/authors/1270020)
 
 ---
-
-
 
 
 ## 📫 **Contact Information**
@@ -154,7 +152,7 @@ Photography, Traveling, Fitness, Cooking, Cocktail Creation
 - 3rd place of the photography contest *H2O*, issued by Wipplay digital photography magazine in partnership with Lomography.
 - 3rd place of the photography contest *HER WAY*, issued by Wipplay digital photography magazine in partnership with Bioderma.
 - 1st place of the photography contest *IL ETAIT UNE FOIS DEMAIN*, issued by Caisses d’Epargne et Polka Magazine.
-- 1st place of the photography contest *HOT SNAPSHOT*, issued by Focus Numerique et Wipplay photography review
+- 1st place of the photography contest *HOT SNAPSHOT*, issued by Focus Numerique et Wipplay photography review.
 - 2nd place of the photography contest *ANIMAUX*, issued by Wipplay photography review.
 - 3rd place of the photography contest *STAINED GLASS*, issued by Cité de l’architecture et du Patrimoine.
 - Jury's very favorite of the photography contest *MA VIE DES HALLES*, issued by Wipplay photography review.
