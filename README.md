@@ -117,15 +117,6 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 
 ---
 
-## 🛠️ **Projects**
-
-### NexiaSynth - Data Anonymization Platform  
-Led the development of a data anonymization platform tailored for financial services.
-
-### Chatbots based on RAG Technology  
-Designed and implemented multiple interactive chatbots specifically for financial services.
-
----
 
 ## 🎓 **Certifications**
 
