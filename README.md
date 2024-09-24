@@ -1,5 +1,5 @@
 # Ernesto López Fune
-Hey peeps, this is my CV with my most recent experiences
+Hey peeps, this is my CV with my most recent experiences!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elopezfune/)
 [![Inspire HEP](https://img.shields.io/badge/-Inspire--HEP-red?style=flat)](https://inspirehep.net/authors/1270020)
@@ -38,7 +38,7 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 ## 💼 **Experience**
 
 ### **IT Quant | Data Analyst | External Consultant**  
-** Societé Générale**, Paris, France | 05/2023 - 12/2023
+🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
 - Developed a back-testing platform for PD, LGD, and CCF risk models within the Model Risk Management team.
 - Designed data sets using Dataiku and PostgreSQL for the analysis of ECB-regulated KRIs.
 - Backend development on R and implemented and automated unit tests on Python.
@@ -47,13 +47,13 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 - Technical Environment: Dataiku, PostgreSQL, R, Python, VS Code, R-Shiny, Git, Agile methodology.
 
 ### **Senior Consultant and Head of R&D**  
-**Nexialog Consulting**, Paris, France | 02/2023 - ongoing
+👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
 - Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
 - I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
 - Developed NexiaSynth, a data anonymization platform and managed chatbots tailored for financial services.
 
 ### **Risk Management Advisor | Consultant**  
-**Euroclear**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
+🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
 - Provided data-driven support to the Risk Department.
 - Developed a Python-based agent simulation to model the life cycle of settlement instructions, which supported the *ICLAAP team* in conducting stress tests and analyzing domino effects in case of account defaults.
 - The simulation managed large data volumes (+100 GB) related to settlement activities, CAGs, collaterals, and exposures, achieving a precision rate of 98%.
@@ -63,21 +63,21 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 - Technical Environment: Python, Power BI, Hadoop (Cloudera), SQL, Agile framework.
 
 ### **Senior Data Specialist | External Consultant**  
-**Leano**, Paris, France | 06/2021 - 12/2021
+👨🏻‍💼 **Leano**, Paris, France | 06/2021 - 12/2021
 - Implemented ML pipelines to automate financial processes such as invoice categorization and cash flow forecasting.
 - Designed and integrated robust pipelines for classification using CatBoost in Python, achieving an AUC of 96%.
 - Optimized an exponential smoothing model to enhance forecasting accuracy in cashflow predictions, reducing the error margin to below 4%.
 - Collaborated with the DevOps team to dockerize services, facilitating deployment and ensuring continuous integration.
 
 ### **Lead Data Scientist | Consultant**  
-**Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
+👨🏻‍💼 **Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
 - Enhanced prediction of graft survival probabilities after kidney transplants using machine learning models adapted to handle right censored data.
 - Prepared three datasets: a derivation cohort of 4000 recipients in France recruited between 2005 and 2014, and two validation cohorts with 3557 recipients from Europe and North America recruited between 2002 and 2014.
 - The c-statistics of some models reached 86% and 88%, surpassing the *iBox* model’s 85% (an internal model using *Cox’s Proportional Hazards*), though the difference was not statistically significant.
 - Technical Environment: Python, R, Git, Agile framework.
 
 ### **Project Manager Europe | Consultant**  
-**ORT-France**, Paris, France | 01/2020 - 07/2020
+👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
 - Managed predictive analytics for the *H2020* European research project *FINSEC*.
 - Lead the project’s technical aspects and facilitating cross-functional collaboration.
 - Communicated progress and strategies to consortium members and prepared roadmaps for predictive analytics initiatives.
@@ -86,7 +86,7 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 - Technical Environment: Python, MongoDB, VS Code, H2O.ai, Git, Docker, Flask, Agile framework.
 
 ### **Post Doc | R&D | Experiment Xenon1T**  
-**LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
+👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
 - Supported particle detection analysis for dark matter WIMPs in the *Xenon1T* detector.
 - Implemented Monte Carlo simulations in C++ to optimize the geometric shape of the fiducial volume with minimal noise.
 - Analyzed collision data and conducted back tests of particle collision models.
@@ -101,27 +101,27 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 - **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB
 - **DevOps**: Git, Docker, AWS
 - **Data Visualization**: Matplotlib, Seaborn, Power BI (DAX), H2O.ai
-- **Certifications**:
-  - Dataiku: Core & Advanced Designer, Developer, ML & MLOps Practitioner
-  - Alteryx: Foundational & Designer Core Micro-Credential
 
 ---
-
-## 🌐 **Languages**
-
-- Spanish (native)
-- English (proficient)
-- Italian (proficient)
-- French (proficient)
-- German (basic)
-
----
-
 
 ## 🎓 **Certifications**
 
 - **Dataiku**: Core & Advanced Designer, Developer, ML & MLOps Practitioner
 - **Alteryx**: Foundational & Designer Core Micro-Credential
+- **Udemy**: Deployment of Machine Learning models
+- **Power BI**: Data analysis and management with Microsoft Power BI
+- **LinkedIn**: Financial Modeling Foundations
+- **LinkedIn**: DevOps for Data Scientists
+
+---
+
+
+## 🌐 **Languages**
+
+- 🇬🇧 🇺🇸 English (proficient)
+- 🇫🇷 French (proficient)
+- 🇮🇹 Italian (proficient)
+- 🇪🇸 Spanish (native)
 
 ---
 
