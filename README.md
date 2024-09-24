@@ -5,9 +5,6 @@ Hey peeps, this is my CV with my most recent experiences
 [![Inspire HEP](https://img.shields.io/badge/-Inspire--HEP-red?style=flat)](https://inspirehep.net/authors/1270020)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/elopezfune)
 
-📞 (+33) 641418696  
-📧 ernestolopezfune@gmail.com  
-📍 75020 Paris, France
 
 ## Summary
 As a **Data Scientist and Astroparticle Physicist**, I have extensive experience in high-energy physics, advanced data analytics, and business intelligence. With over ten years of experience working in culturally diverse teams, I am multilingual and possess strong analytical and solution-oriented skills, adept at leveraging statistical modeling, machine learning, and predictive analytics to drive strategic decisions.
@@ -139,10 +136,10 @@ Designed and implemented multiple interactive chatbots specifically for financia
 
 ## 📫 **Contact Information**
 
-- Email: [ernestolopezfune@gmail.com](mailto:ernestolopezfune@gmail.com)
-- Phone: (+33) 641418696
-- Location: 75020 Paris, France
+- 📧 [ernestolopezfune@gmail.com](mailto:ernestolopezfune@gmail.com)
+- 📍 75020 Paris, France
 
+ 
 ---
 
 ## 🌱 **Interests**
