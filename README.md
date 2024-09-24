@@ -38,7 +38,8 @@ As a **Data Scientist and Astroparticle Physicist**, I have extensive experience
 ## 💼 **Experience**
 
 ### **IT Quant | Data Analyst | External Consultant**  
-**Societé Générale**, Paris, France | 05/2023 - 12/2023
+** ![image](https://github.com/user-attachments/assets/19201639-c683-4868-ae20-79d9dcd956e1)
+Societé Générale**, Paris, France | 05/2023 - 12/2023
 - Developed a back-testing platform for PD, LGD, and CCF risk models within the Model Risk Management team.
 - Designed data sets using Dataiku and PostgreSQL for the analysis of ECB-regulated KRIs.
 - Backend development on R and implemented and automated unit tests on Python.
