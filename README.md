@@ -46,7 +46,7 @@ As a **Data Scientist** and **Astroparticle Physicist**, I leverage a strong aca
 - Presented the platform's progress and introduced new features during weekly meetings to the product committee. 
 - Technical Environment: Dataiku, PostgreSQL, R, Python, VS Code, R-Shiny, Git, Agile methodology.
 
-### **Senior Consultant and Head of R&D**  
+### **Senior Consultant | Head of R&D**  
 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
 - Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
 - I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
