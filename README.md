@@ -1,13 +1,11 @@
 # Ernesto López Fune
-Hey peeps, this is my CV with my most recent experiences!
+I am a Physicist and Data Scientist with Cuban, Spanish, and Italian roots, I have been living in Europe since 2012, and I am a French citizen. My journey in academia began with a five-year stint in Trieste, Italy, where I completed my Ph.D. in Astroparticle Physics at [SISSA](https://www.sissa.it/). Before that, I earned my Diploma in High Energy Physics at the [ICTP](https://www.ictp.it/), where I conducted research on Neutrinoless Double β-decay and Physics Beyond the Standard Model. My Ph.D. thesis combined phenomenology and data analysis, focusing on dark matter at galactic scales, which I successfully defended in September 2017.
+Following my Ph.D., I moved to Paris, France, to undertake a postdoctoral position at [LPNHE](https://lpnhe.in2p3.fr/), contributing to the [XENON1T](https://xenonexperiment.org/) experiment. My role involved data processing, analysis, and searching for rare events within the detector that could potentially signal the discovery of dark matter particles. This endeavor continued until the end of 2019.
+With the onset of the Covid-19 pandemic, I pivoted to data science, driven by my passion for predicting behaviors across various contexts. Since then, I have applied my expertise to a wide range of projects across sectors such as Cybersecurity, Predictive Medicine, and Risk Assessment. My multilingual and multicultural background has been instrumental in enhancing team collaboration and communication, making me an asset in diverse environments.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elopezfune/)
 [![Inspire HEP](https://img.shields.io/badge/-Inspire--HEP-red?style=flat)](https://inspirehep.net/authors/1270020)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/elopezfune)
-
-
-## Summary
-As a **Data Scientist** and **Astroparticle Physicist**, I leverage a strong academic foundation in **High-Energy Physics** to innovate in the fields of data analytics and business intelligence. I adeptly bridge complex data challenges with robust problem-solving strategies derived from physics, employing empirical methods and first principles. My expertise spans statistical modeling, machine learning, and predictive analytics, enabling me to guide strategic decision-making and drive innovative solutions in high-stakes sectors such as financial services, healthcare, and scientific research. I excel in developing impactful, data-driven solutions that deliver actionable insights and improve operational efficiencies. With over a decade of experience in diverse cultural settings, I am multilingual and culturally adept, enhancing team dynamics and communication. My analytical prowess and solution-focused approach empower me to unlock critical data insights, supporting informed and strategic business decisions.
 
 ---
 
