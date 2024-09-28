@@ -162,7 +162,7 @@ Photography, Traveling, Fitness, Cooking, Cocktail Creation
 - *Scholarship*: Joint PhD Programme ICTP/SISSA in Astroparticle Physics, issued by Abdus Salam International Centre for Theoretical Physics (ICTP), and Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy.
 - *Scholarship*: Postgraduate Diploma Programme in High Energy Physics, issued by Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
 - Award to the *Best Research Work done by a Young Physicist* of the XII Symposium of the Cuban Society of Physics 2011, issued by Cuban Society of Physics, associated with Institute of Cybernetics Mathematics and Physics.
-- Mention to the ``Best Researcher Student'' of the Physics Faculty's 2009 promotion.
+- Mention to the *Best Researcher Student* of the Physics Faculty's 2009 promotion.
 
 
 
