@@ -57,7 +57,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ### **Risk Management Advisor | Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
-- Provided data-driven support to the Risk Department.
+- Provided data-driven support to the Risk Management Department.
 - Developed a Python-based agent simulation to model the life cycle of settlement instructions, which supported the *ICLAAP team* in conducting stress tests and analyzing domino effects in case of account defaults.
 - The simulation managed large data volumes (+100 GB) related to settlement activities, CAGs, collaterals, and exposures, achieving a precision rate of 98%.
 - Created ETL services in Python for financial data analysis and reporting using Hadoop (Cloudera) and SQL databases.
