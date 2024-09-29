@@ -53,7 +53,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
 - Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
 - I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
-- Developed NexiaSynth, a data anonymization platform and managed chatbots tailored for financial services.
+- PO of NexiaSynth, a data anonymization platform and PO of the chatbots [MaineCoon](https://mainecoon.nexialog.com/) tailored for financial services.
 
 ### **Risk Management Advisor | Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
