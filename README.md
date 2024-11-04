@@ -39,7 +39,12 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 ---
 
 ## 💼 **Experience**
-
+### **Senior Consultant | Head of R&D**  
+👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
+- Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
+- I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
+- PO of NexiaSynth, a data anonymization platform and PO of the chatbots [MaineCoon](https://mainecoon.nexialog.com/) tailored for financial services.
+  
 ### **IT Quant | Data Analyst | External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
 - Developed a back-testing platform for PD, LGD, and CCF risk models within the Model Risk Management team.
@@ -48,12 +53,6 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 - Designed and implemented modules of the platform’s UI on R-Shiny.
 - Presented the platform's progress and introduced new features during weekly meetings to the product committee. 
 - Technical Environment: Dataiku, PostgreSQL, R, Python, VS Code, R-Shiny, Git, Agile methodology.
-
-### **Senior Consultant | Head of R&D**  
-👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
-- Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
-- I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
-- PO of NexiaSynth, a data anonymization platform and PO of the chatbots [MaineCoon](https://mainecoon.nexialog.com/) tailored for financial services.
 
 ### **Risk Management Advisor | Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
