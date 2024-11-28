@@ -87,30 +87,30 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 💻 **Technical Skills**
 
-- **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines, LIME, SHAP, ELI5
-- **R**: R-Studio, R-Markdown, R-Shiny
-- **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB
-- **DevOps**: Git, VS Code, Docker, AWS
-- **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Power BI (DAX), H2O.ai
+- **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines, LIME, SHAP, ELI5.
+- **R**: R-Studio, R-Markdown, R-Shiny.
+- **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB.
+- **DevOps**: Git, VS Code, Docker, AWS.
+- **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Power BI (DAX), H2O.ai.
 
 ---
 
 ## 🎓 **Certifications**
 
-- **Dataiku**: Core & Advanced Designer, Developer, ML & MLOps Practitioner
-- **Alteryx**: Foundational & Designer Core Micro-Credential
-- **Udemy**: Deployment of Machine Learning models
-- **Power BI**: Data analysis and management with Microsoft Power BI
-- **LinkedIn**: Financial Modeling Foundations, Excel for Business Analysts
-- **LinkedIn**: DevOps for Data Scientists, Creating an App with Machine Learning
+- **Dataiku**: Core & Advanced Designer, Developer, ML & MLOps Practitioner.
+- **Alteryx**: Foundational & Designer Core Micro-Credential.
+- **Udemy**: Deployment of Machine Learning models.
+- **Power BI**: Data analysis and management with Microsoft Power BI.
+- **LinkedIn**: Financial Modeling Foundations, Excel for Business Analysts.
+- **LinkedIn**: DevOps for Data Scientists, Creating an App with Machine Learning.
 
 ---
 
 ## 🌐 **Languages**
 
-- 🇬🇧 🇺🇸 English (proficient)
-- 🇫🇷 French (proficient)
-- 🇮🇹 Italian (proficient)
+- 🇬🇧 🇺🇸 English (C1)
+- 🇫🇷 French (C1)
+- 🇮🇹 Italian (C1)
 - 🇪🇸 Spanish (native)
 
 ---
