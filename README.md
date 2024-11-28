@@ -41,68 +41,57 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 ## 💼 **Experience**
 ### **Senior Consultant | Head of R&D**  
 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
-- Lead Data Scientist, driving AI research, data anonymization, and XAI initiatives.
-- I oversee talent acquisition, team development, knowledge transfer, and mentoring of interim students.
-- PO of NexiaSynth, a data anonymization platform and PO of the chatbots [MaineCoon](https://mainecoon.nexialog.com/) tailored for financial services.
+- Spearhead R&D in AI and data science, focusing on ethical data anonymization, LLMs, and explainable AI.
+- Developing NexiaSynth, a cutting-edge data anonymization platform, enhancing data security in the financial sector.
+- Designed and implemented interactive AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, boosting operational efficiency.
+- Conduct technical webinars, oversee talent development, and mentor junior team members.
   
 ### **IT Quant | Data Analyst | External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
-- Developed a back-testing platform for PD, LGD, and CCF risk models within the Model Risk Management team.
-- Designed data sets using Dataiku and PostgreSQL for the analysis of ECB-regulated KRIs.
-- Backend development on R and implemented and automated unit tests on Python.
-- Designed and implemented modules of the platform’s UI on R-Shiny.
-- Presented the platform's progress and introduced new features during weekly meetings to the product committee. 
-- Technical Environment: Dataiku, PostgreSQL, R, Python, VS Code, R-Shiny, Git, Agile methodology.
+- Designed a back-testing platform for risk models (PD, LGD, CCF), integrating ECB-regulated KRIs into predictive analytics workflows.
+- Developed dynamic UI modules in R-Shiny for real-time data visualization.
+- Implemented unit tests and automated processes using Python in an Agile environment.
 
 ### **Risk Management Advisor | Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
 - Provided data-driven support to the Risk Management Department.
-- Developed a Python-based agent simulation to model the life cycle of settlement instructions, which supported the *ICLAAP team* in conducting stress tests and analyzing domino effects in case of account defaults.
-- The simulation managed large data volumes (+100 GB) related to settlement activities, CAGs, collaterals, and exposures, achieving a precision rate of 98%.
-- Created ETL services in Python for financial data analysis and reporting using Hadoop (Cloudera) and SQL databases.
-- Developed and monitored a Power BI dashboard *CCP Journal* for daily monitoring of settlement activities of CCPs like *LCH*, *LME*, *ICE Clear*, and *Euronext Clearing*.
-- Developed and monitored a Power BI dashboard *Euroclear’s News Journal* for weekly tracking of financial sentiment on *Euroclear Bank*, powered by a sentiment analysis engine.
-- Technical Environment: Python, Power BI, Hadoop (Cloudera), SQL, Agile framework.
+- Built Python-based simulations to model settlement instructions, achieving a 98% precision rate for stress testing.
+- Automated financial reporting pipelines using Hadoop and SQL, streamlining the analysis of large datasets (+100GB).
+- Designed Power BI dashboards for real-time tracking of settlement activities and financial sentiment analysis.
 
 ### **Senior Data Specialist | External Consultant**  
 👨🏻‍💼 **Leano**, Paris, France | 06/2021 - 12/2021
-- Implemented ML pipelines to automate financial processes such as invoice categorization and cash flow forecasting.
-- Designed and integrated robust pipelines for classification using CatBoost in Python, achieving an AUC of 96%.
-- Optimized an exponential smoothing model to enhance forecasting accuracy in cashflow predictions, reducing the error margin to below 4%.
-- Collaborated with the DevOps team to dockerize services, facilitating deployment and ensuring continuous integration.
+- Designed and deployed ML pipelines for financial automation, achieving 96% AUC in invoice categorization.
+- Reduced forecasting error rates to under 4% using exponential smoothing models.
+- Streamlined deployment processes by dockerizing AI services in an Agile framework.
 
 ### **Lead Data Scientist | Consultant**  
 👨🏻‍💼 **Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
-- Enhanced prediction of graft survival probabilities after kidney transplants using machine learning models adapted to handle right censored data.
-- Prepared three datasets: a derivation cohort of 4000 recipients in France recruited between 2005 and 2014, and two validation cohorts with 3557 recipients from Europe and North America recruited between 2002 and 2014.
-- The c-statistics of some models reached 86% and 88%, surpassing the *iBox* model’s 85% (an internal model using *Cox’s Proportional Hazards*), though the difference was not statistically significant.
-- Technical Environment: Python, R, Git, Agile framework.
+- Benchmarked ML models for graft survival prediction post-kidney transplant, achieving a c-stats improvement to 88%.
+- Processed and analyzed large datasets of 4,000+ transplant cases for clinical validation studies.
+- Documented and presented findings in compliance with regulatory standards.
 
 ### **Project Manager Europe | Consultant**  
 👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
-- Managed predictive analytics for the *H2020* European research project *FINSEC*.
-- Lead the project’s technical aspects and facilitating cross-functional collaboration.
-- Communicated progress and strategies to consortium members and prepared roadmaps for predictive analytics initiatives.
-- Conducted internal training on innovation and big data topics.
-- Developed and integrated multiple use cases, such as anomaly detection for *LiberBank* and identifying recurring behaviors for *Nexi*.
-- Technical Environment: Python, MongoDB, VS Code, H2O.ai, Git, Docker, Flask, Agile framework.
+- Led predictive analytics initiatives within the H2020 European project [@FINSEC](https://www.finsec-project.eu/), fostering collaboration among international stakeholders.
+- Developed anomaly detection and behavioral analytics use cases for financial clients.
+- Conducted training on AI and innovation for multidisciplinary teams.
 
 ### **Post Doc | R&D | Experiment Xenon1T**  
 👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
-- Supported particle detection analysis for dark matter WIMPs in the *Xenon1T* detector.
-- Implemented Monte Carlo simulations in C++ to optimize the geometric shape of the fiducial volume with minimal noise.
-- Analyzed collision data and conducted back tests of particle collision models.
-- Author of several articles in high-impact physics journals, including *Physical Review Letters* and *Nature*.
-- Technical Environment: Python, MongoDB, VS Code, C++, Git, Agile framework.
+- Conducted data-driven research on dark matter detection, optimizing Monte Carlo simulations the [@Xenon1T](https://xenonexperiment.org/).
+- Back tests of particle collision models with experimental data.
+- Published findings in high-impact journals, including Nature and Physical Review Letters.
 
 ---
 
 ## 💻 **Technical Skills**
 
-- **Programming**: Python (Numpy, Pandas, Scikit-Learn, PySurvival, PySpark, Flask, LIME/SHAP), R (R-Studio, R-Markdown, R-Shiny)
+- **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines, LIME, SHAP, ELI5
+- **R**: R-Studio, R-Markdown, R-Shiny
 - **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB
-- **DevOps**: Git, Docker, AWS
-- **Data Visualization**: Matplotlib, Seaborn, Power BI (DAX), H2O.ai
+- **DevOps**: Git, VS Code, Docker, AWS
+- **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Power BI (DAX), H2O.ai
 
 ---
 
@@ -112,8 +101,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 - **Alteryx**: Foundational & Designer Core Micro-Credential
 - **Udemy**: Deployment of Machine Learning models
 - **Power BI**: Data analysis and management with Microsoft Power BI
-- **LinkedIn**: Financial Modeling Foundations
-- **LinkedIn**: DevOps for Data Scientists
+- **LinkedIn**: Financial Modeling Foundations, Excel for Business Analysts
+- **LinkedIn**: DevOps for Data Scientists, Creating an App with Machine Learning
 
 ---
 
