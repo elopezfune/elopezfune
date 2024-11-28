@@ -79,7 +79,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ### **Post Doc | R&D | Experiment Xenon1T**  
 👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
-- Conducted data-driven research on dark matter detection, optimizing Monte Carlo simulations the [@Xenon1T](https://xenonexperiment.org/).
+- Conducted data-driven research on dark matter detection, optimizing Monte Carlo simulations.
 - Back tests of particle collision models with experimental data.
 - Published findings in high-impact journals, including Nature and Physical Review Letters.
 
