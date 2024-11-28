@@ -39,45 +39,45 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 ---
 
 ## 💼 **Experience**
-### **Senior Consultant | Head of R&D**  
+### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant**  
 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
  - Spearhead R&D in AI and data science, focusing on ethical data anonymization, LLMs, and explainable AI.
  - Developing NexiaSynth, a cutting-edge data anonymization platform, enhancing data security in the financial sector.
  - Designed and implemented interactive AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, boosting operational efficiency.
  - Conduct technical webinars, oversee talent development, and mentor junior team members.
   
-### **IT Quant | Data Analyst | External Consultant**  
+### **IT Quant ∥ Data Analyst ∥ External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
 - Designed a back-testing platform for risk models (PD, LGD, CCF), integrating ECB-regulated KRIs into predictive analytics workflows.
 - Developed dynamic UI modules in R-Shiny for real-time data visualization.
 - Implemented unit tests and automated processes using Python in an Agile environment.
 
-### **Risk Management Advisor | Consultant**  
+### **Risk Management Advisor ∥ Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
 - Provided data-driven support to the Risk Management Department.
 - Built Python-based simulations to model settlement instructions, achieving a 98% precision rate for stress testing.
 - Automated financial reporting pipelines using Hadoop and SQL, streamlining the analysis of large datasets (+100GB).
 - Designed Power BI dashboards for real-time tracking of settlement activities and financial sentiment analysis.
 
-### **Senior Data Specialist | External Consultant**  
+### **Senior Data Specialist ∥ External Consultant**  
 👨🏻‍💼 **Leano**, Paris, France | 06/2021 - 12/2021
 - Designed and deployed ML pipelines for financial automation, achieving 96% AUC in invoice categorization.
 - Reduced forecasting error rates to under 4% using exponential smoothing models.
 - Streamlined deployment processes by dockerizing AI services in an Agile framework.
 
-### **Lead Data Scientist | Consultant**  
+### **Lead Data Scientist ∥ Consultant**  
 👨🏻‍💼 **Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
 - Benchmarked ML models for graft survival prediction post-kidney transplant, achieving a c-stats improvement to 88%.
 - Processed and analyzed large datasets of 4,000+ transplant cases for clinical validation studies.
 - Documented and presented findings in compliance with regulatory standards.
 
-### **Project Manager Europe | Consultant**  
+### **Project Manager Europe ∥ Consultant**  
 👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
 - Led predictive analytics initiatives within the H2020 European project [@FINSEC](https://www.finsec-project.eu/), fostering collaboration among international stakeholders.
 - Developed anomaly detection and behavioral analytics use cases for financial clients.
 - Conducted training on AI and innovation for multidisciplinary teams.
 
-### **Post Doc | R&D | Experiment Xenon1T**  
+### **Post Doc ∥ R&D ∥ Experiment Xenon1T**  
 👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
 - Conducted data-driven research on dark matter detection, optimizing Monte Carlo simulations.
 - Back tests of particle collision models with experimental data.
