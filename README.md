@@ -40,8 +40,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 💼 **Experience**
 
-## 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
-### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
+### 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
+#### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
  - Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
  - Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
  - Designed and deployed AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, enhancing operational efficiency and user interaction.
@@ -54,7 +54,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
      
 **Technical Stack**: Python · R · R Shiny · Scikit-learn · CatBoost · SHAP · LIME · Docker · Git · Dataiku DSS · SQL
 
-### **Senior Consultant (Feb 2023 - Feb 2024)**
+#### **Senior Consultant (Feb 2023 - Feb 2024)**
 - Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
 - Supported regulatory-driven AI projects by implementing interpretable ML methods and reproducible pipelines.
 - Collaborated with risk managers, IT developers, and quantitative analysts in an Agile R&D environment.
@@ -62,8 +62,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 **Technical Stack**: R Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSSR Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSS · Alteryx
   
-### **IT Quant ∥ Data Analyst ∥ External Consultant**  
-🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
+### 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
+#### **IT Quant ∥ Data Analyst ∥ External Consultant**  
 - Built and enhanced the Model Performance Platform (MPP) for back-testing risk models (Probability of Default – PD, Loss Given Default – LGD, and Credit Conversion Factor – CCF).
 - Integrated ECB-regulated Key Risk Indicators (KRIs) into predictive analytics workflows, ensuring compliance with European Central Bank standards.
 - Developed backend logic for KRIs in R (Dataiku DSS, PostgreSQL) and created interactive R-Shiny dashboards for real-time monitoring and visualization.
@@ -72,52 +72,96 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 - Participated in committee meetings with risk modelers, data engineers, and governance teams, presenting platform progress and results to stakeholders.
 - Worked in an Agile development environment, implementing unit tests, automation, and CI/CD best practices with Python and Git.
 
-- Key Achievements:
+- **Key Achievements**:
   - Strengthened Société Générale’s model risk governance by providing a scalable back-testing framework aligned with ECB regulatory expectations.
   - Delivered a robust R-Shiny interface enabling stakeholders to monitor KRIs, track model stability, and ensure transparency in model performance.
   
 **Technical Stack**: R Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSS · PostgreSQL
 
-### **Risk Management Advisor ∥ Consultant**  
-🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
-- Provided data-driven support to the Risk Management Department.
-- Built Python-based simulations to model settlement instructions, achieving a 98% precision rate for stress testing.
-- Automated financial reporting pipelines using Hadoop and SQL, streamlining the analysis of large datasets (+100GB).
-- Designed Power BI dashboards for real-time tracking of settlement activities and financial sentiment analysis.
+### 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
+#### **Risk Management Advisor ∥ Consultant**  
+- Provided data-driven support to the Risk Management Department for settlement risk and stress testing.
+- Designed Python-based simulation models to replicate settlement instruction logic, achieving 98% precision in predicting exposures, Loss Given Default (LGD), and potential domino effects of client defaults.
+- Automated financial reporting pipelines using Hadoop and SQL, enabling efficient analysis of 100GB+ datasets.
+- Developed and monitored interactive Power BI dashboards:
+  - NewsJournal: delivered financial sentiment analysis of Euroclear Bank using news and market reviews.
+  - CCPJournal: tracked settlement activities of Central Counterparties (CCPs), computed exposures, margins, and generated weekly stakeholder financial reviews.
+-Collaborated with risk officers and analysts to enhance transparency, accuracy, and regulatory compliance in financial risk reporting.
 
-### **Senior Data Specialist ∥ External Consultant**  
-👨🏻‍💼 **Leano**, Paris, France | 06/2021 - 12/2021
-- Designed and deployed ML pipelines for financial automation, achieving 96% AUC in invoice categorization.
-- Reduced forecasting error rates to under 4% using exponential smoothing models.
-- Streamlined deployment processes by dockerizing AI services in an Agile framework.
+**Key Achievements**:
+- Strengthened Euroclear’s stress testing framework by building accurate, reproducible simulations of settlement exposures.
+- Improved risk monitoring efficiency and stakeholder reporting through automation and visualization.
 
-### **Lead Data Scientist ∥ Consultant**  
-👨🏻‍💼 **Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
-- Benchmarked ML models for graft survival prediction post-kidney transplant, achieving a c-stats improvement to 88%.
-- Processed and analyzed large datasets of 4,000+ transplant cases for clinical validation studies.
-- Documented and presented findings in compliance with regulatory standards.
+**Technical Stack**: Microsoft Power BI · VS Code · Sentiment Analysis · Risk Management · High Performance Computing · Leadership · Python · SQL
+ 
 
-### **Project Manager Europe ∥ Consultant**  
-👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
-- Led predictive analytics initiatives within the H2020 European project [@FINSEC](https://www.finsec-project.eu/), fostering collaboration among international stakeholders.
-- Developed anomaly detection and behavioral analytics use cases for financial clients.
-- Conducted training on AI and innovation for multidisciplinary teams.
+### 👨🏻‍💼 **Leano**, Paris, France | 06/2021 - 12/2021
+#### **Senior Data Specialist ∥ External Consultant**
+- Designed and deployed machine learning pipelines for financial automation, specifically automating invoice categorization and achieving 96% AUC in classification accuracy on validation samples.
+- Developed forecasting models using exponential smoothing techniques, reducing forecasting error rates to under 4%, enhancing financial planning accuracy.
+- Streamlined production deployment by containerizing AI services with Docker, speeding up iteration and deployment in an Agile development environment.
+- Built scalable ML solutions to meet critical SME operational needs, balancing technical innovation with business utility.
 
-### **Post Doc ∥ R&D ∥ Experiment Xenon1T**  
-👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
-- Conducted data-driven research on dark matter detection, optimizing Monte Carlo simulations.
-- Back tests of particle collision models with experimental data.
-- Published findings in high-impact journals, including Nature and Physical Review Letters.
+**Core Contributions**:
+- Embedded advanced ML into small-business workflows, for invoice classification and demand forecasting, delivering tangible performance improvements and operational efficiency.
+- Demonstrated startup adaptability: rapid prototyping, deployment, and solution delivery under tight constraints.
 
----
+**Technical Stack**: Data Analytics · Machine Learning · Python · Leadership · Machine Learning Pipelines · Forecasting Models · Docks · Agile Application Development
+
+### 👨🏻‍💼 **Paris Transplant Group / Institut Necker**, Paris, France | 08/2020 - 05/2021
+#### **Lead Data Scientist ∥ Consultant**
+- Led the development and benchmarking of machine learning survival models for predicting kidney graft survival, comparing against the iBox Cox Proportional Hazards model.
+- Processed and analyzed 8200+ anonymized patient records across derivation (n=4000, France) and external validation cohorts from Europe, South America, and North America.
+- Designed and validated models including Random Survival Forests, Conditional Survival Forests, Extra Survival Trees, Neural Multi-Task Logistic Regression, and ensemble meta-models (Boosting, Stacking).
+- Improved predictive performance with C-index up to 0.884, exceeding the iBox baseline (0.808) in derivation cohorts.
+- Applied data preprocessing, imputation, and calibration techniques for right-censored clinical survival data.
+- Produced reproducible analyses in Python (NumPy, Pandas, Matplotlib, PySurvival, Scikit-learn) within a TRIPOD-compliant framework.
+- Documented and presented findings in line with clinical, regulatory, and academic standards, contributing to the group’s scientific projects.
+
+**Key Achievements**:
+- Demonstrated that advanced ML survival models can complement or surpass classical approaches in certain cohorts, providing new clinical decision-support insights.
+- Delivered preliminary results that strengthened Paris Transplant Group’s research output and international collaborations.
+
+**Technical Stack**: Predictive Analytics · Survival Analysis · Clinical Data Science · Model Benchmarking · Data Preparation · Validation & Calibration · Reproducible Research · Scientific Communications · Backtesting
+
+### 👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
+#### **Project Manager Europe ∥ Consultant**  
+- Led predictive analytics initiatives within the H2020 FINSEC project, focused on collaborative security for financial infrastructures.
+- Developed anomaly detection and behavioral analytics use cases for financial clients, applying AI/ML methods to risk assessment and fraud detection.
+- Reviewed and contributed to the Reference Architecture of the INFINITECH project, aimed at advancing Big Data/AI/IoT innovation in finance and insurance ecosystems.
+- Presented predictive analytics solutions and use case demonstrations at a consortium meeting (Madrid, Feb 2020).
+- Conducted training workshops on AI and innovation for multidisciplinary teams, strengthening knowledge transfer and adoption.
+- Authored project deliverables and technical documentation in line with European Commission regulatory and compliance standards.
+
+**Key Achievements**:
+- Bridged expertise from computational physics and big data into applied AI/ML solutions for finance and cybersecurity.
+- Strengthened ORT France’s contribution to flagship EU innovation projects by delivering technical insights and stakeholder engagement.technical insights and stakeholder engagement.
+
+**Technical Stack**: Git · DevOps · Leadership · Data Analytics · Python · Predictive Analytics · Anomaly Detection · Behavioral Analytics · AI/ML · Data Science · Agile Project Management · Technical Training · EU R&D Frameworks · Stakeholder Collaboration
+
+
+### 👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
+#### **Post Doc ∥ R&D ∥ Experiment Xenon1T**  
+- Conducted data-driven research in one of the world’s leading dark matter detection experiments (XENON1T), analyzing large-scale experimental datasets and running advanced simulations.
+- Designed and optimized Monte Carlo simulations of particle interactions and detector responses, implemented in C++ and executed on high-performance computing clusters.
+- Performed back-testing and validation of physical models against real detector data using Python, and statistical analysis frameworks.
+- Collaborated with an international consortium of physicists, contributing to high-impact results published in Nature, Physical Review Letters, and other leading journals.
+- Independently authored a first-author paper on empirical velocity profiles for galactic rotation curves (Mon. Not. R. Astron. Soc. 475 (2018)), demonstrating initiative and independent research capacity.
+
+**Key Achievements**:
+- Contributed to high-visibility scientific results published in Nature and PRL, recognized globally within the physics community.
+- Developed strong expertise in large-scale data analysis, Monte Carlo methods, high-performance computing, and statistical modeling, with direct applications in data science, quantitative research, and advanced simulations.
+
+**Technical Stack**: Python · C++ · Monte Carlo Simulation · Statistical Modeling · High Performance Computing · Statistical Data Analysis · Large-Scale Datasets · International Collaboration · Scientific Communications · Scientific Papers · Scientific Research · Research Development
+
 
 ## 💻 **Technical Skills**
-
-- **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines, LIME, SHAP, ELI5.
+- **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines.
 - **R**: R-Studio, R-Markdown, R-Shiny.
 - **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB.
 - **DevOps**: Git, VS Code, Docker, AWS.
 - **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Power BI (DAX), H2O.ai.
+- - **XAI**: LIME, SHAP, ELI5.
 
 ---
 
