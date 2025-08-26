@@ -44,7 +44,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 #### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
  - Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
  - Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
- - Designed and deployed AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, enhancing operational efficiency and user interaction.
+ - Designed and deployed RAG chatbots [@MaineCoon](https://mainecoon.nexialog.com/) taylored for financial clients, enhancing operational efficiency and user interaction.
  - Allocate and manage R&D resources, budgets, and project timelines, ensuring delivery within constraints while maintaining technical excellence.
  - Mentor and coach junior data scientists, organize technical webinars, and oversee talent development within the data science division.
  - First-author internal research publications on:
