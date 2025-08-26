@@ -58,7 +58,10 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
  * Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
  * Supported regulatory-driven AI projects by implementing interpretable ML methods and reproducible pipelines.
  * Collaborated with risk managers, IT developers, and quantitative analysts in an Agile R&D environment.
- * External Consultant IT-Quant for Société Générale.  
+ * External Consultant IT-Quant for Société Générale.
+
+**Technical Stack**: R Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSSR Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSS
+Alteryx
   
 ### **IT Quant ∥ Data Analyst ∥ External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
