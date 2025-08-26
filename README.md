@@ -155,8 +155,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 **Technical Stack**: Python · C++ · Monte Carlo Simulation · Statistical Modeling · High Performance Computing · Statistical Data Analysis · Large-Scale Datasets · International Collaboration · Scientific Communications · Scientific Papers · Scientific Research · Research Development
 
 
-### 👨🏻‍🏫 **Scuola Internazionale Superiore di Studi Avanzati (SISSA) et "Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 10/2013 - 09/2017
-#### **Doctor Philosophiæ in Astroparticle Physics ∥ R&D ∥Joint PhD Programme**  
+### 👨🏻‍🏫 Scuola Internazionale Superiore di Studi Avanzati (SISSA) et "Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 10/2013 - 09/2017
+#### Doctor Philosophiæ in Astroparticle Physics ∥ R&D ∥Joint PhD Programme  
 - Completed a Ph.D. thesis on dark matter distribution in spiral galaxies, analyzing large-scale astronomical datasets (galaxy rotation curves and astrophysical measurements) to uncover mass distribution patterns.
 - Designed and maintained DMROT, a custom software package in Wolfram Mathematica, enabling:
   - Non-linear regression models and parameter estimation on galaxy rotation curve datasets.
@@ -179,8 +179,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 **Technical Stack**: Data Analysis · Predictive Modeling · Non-linear Regression · Statistical Methods · Software Development · Scientific Visualization · Wolfram Mathematica · Computational Modeling · Communication ResearchSkills: Data Analysis · Predictive Modeling · Non-linear Regression · Statistical Methods · Software Development · Scientific Visualization · Wolfram Mathematica · Computational Modeling · Communication Research
 
 
-### 👨🏻‍🏫 **"Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 09/2012 - 08/2013
-#### **High Energy Physics Diploma ∥ R&D **  
+### 👨🏻‍🏫 "Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 09/2012 - 08/2013
+#### High Energy Physics Diploma ∥ R&D  
 - Completed an intensive postgraduate diploma in High Energy Physics, specializing in advanced modeling, simulation, and data analysis.
 - Designed and executed research projects involving analytical modeling and numerical simulations of complex particle interactions.
 - Applied statistical methods and computational techniques to calculate probabilities, optimize models, and test theoretical predictions.
@@ -194,8 +194,8 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 **Technical Stack**: Mathematical Modeling · Numerical Simulation · Statistical Analysis · Computational Methods · Creative Problem Solving · Cross-Disciplinary Collaboration
 
 
-### 👨🏻‍🏫 **Institute of Cybernetics Mathematics and Physics (ICIMAF), Havana, Cuba | 10/2009 - 09/2012
-#### **Junior Researcher ∥ R&D **  
+### 👨🏻‍🏫 Institute of Cybernetics Mathematics and Physics (ICIMAF), Havana, Cuba | 10/2009 - 09/2012
+#### Junior Researcher ∥ R&D  
 - Designed and implemented computational models and simulations to study matter under extreme densities and intense magnetic fields, applying advanced numerical methods and optimization techniques.
 - Developed high-performance algorithms in Fortran-90 to solve nonlinear integral and differential equations, improving simulation accuracy and computational efficiency.
 - Built Molecular Dynamics simulations in C++ using the Velocity-Verlet algorithm, enabling large-scale modeling of solid-state systems.
