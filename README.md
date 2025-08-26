@@ -42,12 +42,12 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
 ### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
- * Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
- * Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
- * Designed and deployed AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, enhancing operational efficiency and user interaction.
- * Allocate and manage R&D resources, budgets, and project timelines, ensuring delivery within constraints while maintaining technical excellence.
- * Mentor and coach junior data scientists, organize technical webinars, and oversee talent development within the data science division.
- * First-author internal research publications on:
+ - Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
+ - Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
+ - Designed and deployed AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, enhancing operational efficiency and user interaction.
+ - Allocate and manage R&D resources, budgets, and project timelines, ensuring delivery within constraints while maintaining technical excellence.
+ - Mentor and coach junior data scientists, organize technical webinars, and oversee talent development within the data science division.
+ - First-author internal research publications on:
    - Interpretable ML algorithms (parametric vs. non-parametric models).
    - Feature importance and correlation in supervised ML (LIME, SHAP, PFI).
    - Fast calibration of implied volatility models (SVI, CatBoost, Random Forest, metaheuristic optimizers).
@@ -55,18 +55,28 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 **Technical Stack**: Python · R · R Shiny · Scikit-learn · CatBoost · SHAP · LIME · Docker · Git · Dataiku DSS · SQL
 
 ### **Senior Consultant (Feb 2023 - Feb 2024)**
- * Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
- * Supported regulatory-driven AI projects by implementing interpretable ML methods and reproducible pipelines.
- * Collaborated with risk managers, IT developers, and quantitative analysts in an Agile R&D environment.
- * External Consultant IT-Quant for Société Générale.
+- Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
+- Supported regulatory-driven AI projects by implementing interpretable ML methods and reproducible pipelines.
+- Collaborated with risk managers, IT developers, and quantitative analysts in an Agile R&D environment.
+- External Consultant IT-Quant for Société Générale.
 
 **Technical Stack**: R Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSSR Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSS · Alteryx
   
 ### **IT Quant ∥ Data Analyst ∥ External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
-- Designed a back-testing platform for risk models (PD, LGD, CCF), integrating ECB-regulated KRIs into predictive analytics workflows.
-- Developed dynamic UI modules in R-Shiny for real-time data visualization.
-- Implemented unit tests and automated processes using Python in an Agile environment.
+- Built and enhanced the Model Performance Platform (MPP) for back-testing risk models (Probability of Default – PD, Loss Given Default – LGD, and Credit Conversion Factor – CCF).
+- Integrated ECB-regulated Key Risk Indicators (KRIs) into predictive analytics workflows, ensuring compliance with European Central Bank standards.
+- Developed backend logic for KRIs in R (Dataiku DSS, PostgreSQL) and created interactive R-Shiny dashboards for real-time monitoring and visualization.
+- Constructed S3 datasets in Dataiku, enabling efficient storage and processing for model validation.
+- Conducted statistical hypothesis testing, data validation, and predictive analytics to support model governance and regulatory reporting.
+- Participated in committee meetings with risk modelers, data engineers, and governance teams, presenting platform progress and results to stakeholders.
+- Worked in an Agile development environment, implementing unit tests, automation, and CI/CD best practices with Python and Git.
+
+- Key Achievements:
+  - Strengthened Société Générale’s model risk governance by providing a scalable back-testing framework aligned with ECB regulatory expectations.
+  - Delivered a robust R-Shiny interface enabling stakeholders to monitor KRIs, track model stability, and ensure transparency in model performance.
+  
+**Technical Stack**: R Shiny · R · Git · VS Code · Risk Management · Risk Modeling · Dataiku DSS · PostgreSQL
 
 ### **Risk Management Advisor ∥ Consultant**  
 🏛️ **Euroclear Bank**, Paris-Brussels, France-Belgium | 04/2022 - 10/2022
