@@ -126,12 +126,12 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ### 👨🏻‍💼 **ORT-France**, Paris, France | 01/2020 - 07/2020
 #### **Project Manager Europe ∥ Consultant**  
-- Led predictive analytics initiatives within the H2020 FINSEC project, focused on collaborative security for financial infrastructures.
+- Led predictive analytics initiatives within the *H2020 FINSEC* project, focused on collaborative security for financial infrastructures.
 - Developed anomaly detection and behavioral analytics use cases for financial clients, applying AI/ML methods to risk assessment and fraud detection.
-- Reviewed and contributed to the Reference Architecture of the INFINITECH project, aimed at advancing Big Data/AI/IoT innovation in finance and insurance ecosystems.
-- Presented predictive analytics solutions and use case demonstrations at a consortium meeting (Madrid, Feb 2020).
+- Reviewed and contributed to the Reference Architecture of the *INFINITECH* project, aimed at advancing Big Data/AI/IoT innovation in finance and insurance ecosystems.
+- Presented predictive analytics solutions and use case demonstrations at a consortium meeting (*Madrid, Feb 2020*).
 - Conducted training workshops on AI and innovation for multidisciplinary teams, strengthening knowledge transfer and adoption.
-- Authored project deliverables and technical documentation in line with European Commission regulatory and compliance standards.
+- Authored project deliverables and technical documentation in line with *European Commission* regulatory and compliance standards.
 
 **Key Achievements**:
 - Bridged expertise from computational physics and big data into applied AI/ML solutions for finance and cybersecurity.
@@ -142,25 +142,82 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ### 👨🏻‍🏫 **LPNHE - CNRS**, Paris, France | 10/2017 - 09/2019
 #### **Post Doc ∥ R&D ∥ Experiment Xenon1T**  
-- Conducted data-driven research in one of the world’s leading dark matter detection experiments (XENON1T), analyzing large-scale experimental datasets and running advanced simulations.
+- Conducted data-driven research in one of the world’s leading dark matter detection experiments (*XENON1T*), analyzing large-scale experimental datasets and running advanced simulations.
 - Designed and optimized Monte Carlo simulations of particle interactions and detector responses, implemented in C++ and executed on high-performance computing clusters.
 - Performed back-testing and validation of physical models against real detector data using Python, and statistical analysis frameworks.
-- Collaborated with an international consortium of physicists, contributing to high-impact results published in Nature, Physical Review Letters, and other leading journals.
-- Independently authored a first-author paper on empirical velocity profiles for galactic rotation curves (Mon. Not. R. Astron. Soc. 475 (2018)), demonstrating initiative and independent research capacity.
+- Collaborated with an international consortium of physicists, contributing to high-impact results published in *Nature*, *Physical Review Letters*, and other leading journals.
+- Independently authored a first-author paper on empirical velocity profiles for galactic rotation curves (*Mon. Not. R. Astron. Soc. 475 (2018)*), demonstrating initiative and independent research capacity.
 
 **Key Achievements**:
-- Contributed to high-visibility scientific results published in Nature and PRL, recognized globally within the physics community.
+- Contributed to high-visibility scientific results published in *Nature* and *PRL*, recognized globally within the physics community.
 - Developed strong expertise in large-scale data analysis, Monte Carlo methods, high-performance computing, and statistical modeling, with direct applications in data science, quantitative research, and advanced simulations.
 
 **Technical Stack**: Python · C++ · Monte Carlo Simulation · Statistical Modeling · High Performance Computing · Statistical Data Analysis · Large-Scale Datasets · International Collaboration · Scientific Communications · Scientific Papers · Scientific Research · Research Development
 
 
+### 👨🏻‍🏫 **Scuola Internazionale Superiore di Studi Avanzati (SISSA) et "Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 10/2013 - 09/2017
+#### **Doctor Philosophiæ in Astroparticle Physics ∥ R&D ∥Joint PhD Programme**  
+- Completed a Ph.D. thesis on dark matter distribution in spiral galaxies, analyzing large-scale astronomical datasets (galaxy rotation curves and astrophysical measurements) to uncover mass distribution patterns.
+- Designed and maintained DMROT, a custom software package in Wolfram Mathematica, enabling:
+  - Non-linear regression models and parameter estimation on galaxy rotation curve datasets.
+  - Correlation analysis and predictive modeling for galactic properties (virial radius, stellar/gaseous masses, rotational velocities).
+  - Automated data visualization and generation of high-quality plots for complex datasets.
+- Conducted end-to-end data workflows, from image-based galaxy data extraction to model validation and statistical analysis.
+- Explored modified theories of gravity and empirical modeling to improve predictions of dark matter behavior, demonstrating strong problem-solving and innovation.
+- Published peer-reviewed articles as first author, presented research in seminars, and collaborated within international research teams.
+
+**Key Achievements**:
+- Introduced a novel empirical method to estimate local dark matter density, contributing to improved astrophysical modeling.
+- Published as first author a peer-reviewed paper *Mon. Not. R. Astron. Soc. 468 (2017)*, demonstrating expertise in modeling, simulation, and data-driven research.
+
+**Teaching & Knowledge Transfer**:
+- Delivered seminars and progress presentations to multidisciplinary audiences, translating complex scientific results into clear insights.
+- Mentored undergraduate and graduate students on data analysis methods, regression modeling, and visualization techniques, fostering analytical and coding skills.
+- Assisted in the supervision of research projects, providing technical guidance, code reviews, and methodological support.
+- Developed and shared technical documentation for DMROT, ensuring usability and reproducibility by other researchers.
+
+**Technical Stack**: Data Analysis · Predictive Modeling · Non-linear Regression · Statistical Methods · Software Development · Scientific Visualization · Wolfram Mathematica · Computational Modeling · Communication ResearchSkills: Data Analysis · Predictive Modeling · Non-linear Regression · Statistical Methods · Software Development · Scientific Visualization · Wolfram Mathematica · Computational Modeling · Communication Research
+
+
+### 👨🏻‍🏫 **"Abdus Salam" International Centre for Theoretical Physics (ICTP), Trieste, Italy | 09/2012 - 08/2013
+#### **High Energy Physics Diploma ∥ R&D **  
+- Completed an intensive postgraduate diploma in High Energy Physics, specializing in advanced modeling, simulation, and data analysis.
+- Designed and executed research projects involving analytical modeling and numerical simulations of complex particle interactions.
+- Applied statistical methods and computational techniques to calculate probabilities, optimize models, and test theoretical predictions.
+- Collaborated in an international, cross-disciplinary research environment, enhancing communication and teamwork skills.
+- Pursued independent projects, demonstrating initiative and the ability to deliver results with minimal supervision.
+
+**Key Achievements**:
+- Introduced a novel empirical method to estimate local dark matter density, contributing to improved astrophysical modeling.
+- Published as first author a peer-reviewed paper *Mon. Not. R. Astron. Soc. 468 (2017)*, demonstrating expertise in modeling, simulation, and data-driven research.
+
+**Technical Stack**: Mathematical Modeling · Numerical Simulation · Statistical Analysis · Computational Methods · Creative Problem Solving · Cross-Disciplinary Collaboration
+
+
+### 👨🏻‍🏫 **Institute of Cybernetics Mathematics and Physics (ICIMAF), Havana, Cuba | 10/2009 - 09/2012
+#### **Junior Researcher ∥ R&D **  
+- Designed and implemented computational models and simulations to study matter under extreme densities and intense magnetic fields, applying advanced numerical methods and optimization techniques.
+- Developed high-performance algorithms in Fortran-90 to solve nonlinear integral and differential equations, improving simulation accuracy and computational efficiency.
+- Built Molecular Dynamics simulations in C++ using the Velocity-Verlet algorithm, enabling large-scale modeling of solid-state systems.
+- Applied data analysis, visualization, and mathematical modeling to evaluate system stability and predict physical properties, leveraging both statistical and theoretical approaches.
+- Collaborated with senior researchers and delivered findings through technical reports, peer-reviewed publications, and international conferences.
+- Provided tutorials on applied mathematics (ODEs, Calculus of Variations) to undergraduate students, strengthening communication and mentoring skills.
+
+**Key Achievements**:
+- Authored three peer-reviewed publications as first author, demonstrating expertise in modeling, simulation, and data-driven research.
+- Successfully translated complex physical theories into computational frameworks with real-world applications in high-performance computing and systems modeling.
+
+**Technical Stack**: Astrophysics · Numerical Methods · Algorithm Development · Computational Modeling · Fortran-90 · C++ · Molecular Dynamics · Applied Mathematics · Data Analysis · Scientific Communications · Research Projects · Scholarly Research
+
+
+
 ## 💻 **Technical Skills**
 - **Python**: Numpy, Pandas, Scikit-Learn, Flask, PySurvival, Lifelines.
 - **R**: R-Studio, R-Markdown, R-Shiny.
+- **Deep Learning**: Tensor Flow, Keras, PyTorch
 - **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB.
 - **DevOps**: Git, VS Code, Docker, AWS.
-- **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Power BI (DAX), H2O.ai.
+- **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Microsoft Power BI (DAX), H2O.ai.
 - - **XAI**: LIME, SHAP, ELI5.
 
 ---
