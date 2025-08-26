@@ -39,12 +39,24 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 ---
 
 ## 💼 **Experience**
-### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant**  
-👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
- - Spearhead R&D in AI and data science, focusing on ethical data anonymization, LLMs, and explainable AI.
- - Developing NexiaSynth, a cutting-edge data anonymization platform, enhancing data security in the financial sector.
- - Designed and implemented interactive AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, boosting operational efficiency.
- - Conduct technical webinars, oversee talent development, and mentor junior team members.
+
+## 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
+### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
+ * Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
+ * Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
+ * Designed and deployed AI chatbots [@MaineCoon](https://mainecoon.nexialog.com/) for financial clients, enhancing operational efficiency and user interaction.
+ * Allocate and manage R&D resources, budgets, and project timelines, ensuring delivery within constraints while maintaining technical excellence.
+ * Mentor and coach junior data scientists, organize technical webinars, and oversee talent development within the data science division.
+ * First-author internal research publications on:
+  - Interpretable ML algorithms (parametric vs. non-parametric models).
+  - Feature importance and correlation in supervised ML (LIME, SHAP, PFI).
+  - Fast calibration of implied volatility models (SVI, CatBoost, Random Forest, metaheuristic optimizers).
+ **Technical Stack**: Python · R · R Shiny · Scikit-learn · CatBoost · SHAP · LIME · Docker · Git · Dataiku DSS · SQL
+### **Senior Consultant (Feb 2023 - Feb 2024)**
+ * Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
+ * Supported regulatory-driven AI projects by implementing interpretable ML methods and reproducible pipelines.
+ * Collaborated with risk managers, IT developers, and quantitative analysts in an Agile R&D environment.
+ * External Consultant IT-Quant for Société Générale.  
   
 ### **IT Quant ∥ Data Analyst ∥ External Consultant**  
 🏛️ **Societé Générale**, Paris, France | 05/2023 - 12/2023
