@@ -48,9 +48,9 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
  * Allocate and manage R&D resources, budgets, and project timelines, ensuring delivery within constraints while maintaining technical excellence.
  * Mentor and coach junior data scientists, organize technical webinars, and oversee talent development within the data science division.
  * First-author internal research publications on:
-  - Interpretable ML algorithms (parametric vs. non-parametric models).
-  - Feature importance and correlation in supervised ML (LIME, SHAP, PFI).
-  - Fast calibration of implied volatility models (SVI, CatBoost, Random Forest, metaheuristic optimizers).
+   - Interpretable ML algorithms (parametric vs. non-parametric models).
+   - Feature importance and correlation in supervised ML (LIME, SHAP, PFI).
+   - Fast calibration of implied volatility models (SVI, CatBoost, Random Forest, metaheuristic optimizers).
  **Technical Stack**: Python · R · R Shiny · Scikit-learn · CatBoost · SHAP · LIME · Docker · Git · Dataiku DSS · SQL
 ### **Senior Consultant (Feb 2023 - Feb 2024)**
  * Delivered data science and quantitative analytics solutions to financial clients, including model validation, XAI frameworks, and risk analytics.
