@@ -218,7 +218,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 - **Databases**: SQL, PostgreSQL, Hadoop (Cloudera), MongoDB.
 - **DevOps**: Git, VS Code, Docker, AWS.
 - **DataViz & Analytics**: Matplotlib, Seaborn, Plotly, Microsoft Power BI (DAX), H2O.ai.
-- - **XAI**: LIME, SHAP, ELI5.
+- **XAI**: LIME, SHAP, ELI5.
 
 ---
 
