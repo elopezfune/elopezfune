@@ -259,7 +259,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 💡 **Interests**
 
-Photography, Traveling, Fitness, Cooking, Cocktail Creation
+Photography, Traveling, Fitness
 
 ---
 
