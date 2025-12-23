@@ -41,7 +41,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 ## 💼 **Experience**
 
 ### 👨🏻‍💼 **Data Empirix**, Paris, France | 12/2025 - ongoing
-#### **Founder @dataempirix ∥ Consultant (Dec 2025 - ongoing)**
+#### **Founder @dataempirix ∥ Consultant Freelance (Dec 2025 - ongoing)**
 I bring the analytical rigor of a PhD astrophysicist together with the execution discipline of a senior AI engineer. I design and deliver AI systems that withstand scientific scrutiny, regulatory pressure, and production constraints.
 My work spans regulated finance, healthcare AI, high-risk forecasting, and EU-funded R&D programs, with a consistent focus on turning advanced models into deployable, auditable, and value-generating solutions.
 Core value pillars
