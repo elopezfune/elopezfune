@@ -40,8 +40,23 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 💼 **Experience**
 
-### 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - ongoing
-#### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - ongoing)**
+### 👨🏻‍💼 **Data Empirix**, Paris, France | 12/2025 - ongoing
+#### **Founder @dataempirix ∥ Consultant (Dec 2025 - ongoing)**
+I bring the analytical rigor of a PhD astrophysicist together with the execution discipline of a senior AI engineer. I design and deliver AI systems that withstand scientific scrutiny, regulatory pressure, and production constraints.
+My work spans regulated finance, healthcare AI, high-risk forecasting, and EU-funded R&D programs, with a consistent focus on turning advanced models into deployable, auditable, and value-generating solutions.
+Core value pillars
+ -  Methodological rigor grounded in first principles and statistical robustness
+ -  Production-level code quality, scalability, and maintainability
+ -  Compliance-first workflows (governance, traceability, explainability)
+ -  Cross-functional delivery at the intersection of research, engineering, and business
+ -  Fluent collaboration in Spanish, French, English, and Italian
+
+Impact
+ - Proven track record delivering AI solutions adopted by banks, medical environments, and R&D organizations, where reliability, transparency, and operational risk management are non-negotiable.
+
+
+### 👨🏻‍💼 **Nexialog Consulting**, Paris, France | 02/2023 - 12/2025
+#### **Head of R&D Programme ∥ Lead Data Scientist ∥ Consultant (Feb 2024 - Dec 2025)**
  - Spearhead R&D in AI and data science with focus on ethical data anonymization, large language models (LLMs), and explainable AI (XAI).
  - Lead the development of NexiaSynth, a proprietary data anonymization platform strengthening compliance and security in the financial sector.
  - Designed and deployed RAG chatbots [@MaineCoon](https://mainecoon.nexialog.com/) taylored for financial clients, enhancing operational efficiency and user interaction.
