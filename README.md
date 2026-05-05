@@ -27,18 +27,18 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 
 - ∫🎓 **Postgraduate Diploma in High Energy Physics** (GPA: 3.9/4.0) -------------------- 09/2012 - 08/2013
- - *“Abdus Salam” International Centre for Theoretical Physics (ICTP), Trieste, Italy*
- - *Research thesis: “Neutrinoless Double Beta Decay and Physics Beyond the Standard Model”*
+   - *“Abdus Salam” International Centre for Theoretical Physics (ICTP), Trieste, Italy*
+   - *Research thesis: “Neutrinoless Double Beta Decay and Physics Beyond the Standard Model”*
   
 - ∫🎓 **M.Sc. Physical Sciences** (GPA: 4.0/4.0) -------------------- 10/2009 - 12/2011  
- - *University of Havana, Havana, Cuba*
- - *Research thesis: “Strangelets magnetizados a temperatura finita”*
+   - *University of Havana, Havana, Cuba*
+   - *Research thesis: “Strangelets magnetizados a temperatura finita”*
 
 
 - ∫🎓 **Licenciado en Fı́sica – 5-year Integrated Physics Degree** (GPA: 3.8/4.0) -------------------- 09/2004 - 08/2009 
- - *University of Havana, Havana, Cuba*
- - *Research thesis: “Materia de quarks magnetizada en equilibrio estelar”*
- - *Advanced coursework in Topology, Differential Geometry, Functional Analysis, Statistical Physics, Quantum Mechanics, Mathematical and Computational Physics*
+   - *University of Havana, Havana, Cuba*
+   - *Research thesis: “Materia de quarks magnetizada en equilibrio estelar”*
+   - *Advanced coursework in Topology, Differential Geometry, Functional Analysis, Statistical Physics, Quantum Mechanics, Mathematical and Computational Physics*
 
 ---
 
