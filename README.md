@@ -44,6 +44,7 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
   *University of Havana, Havana, Cuba*  
   *Research thesis: “Materia de quarks magnetizada en equilibrio estelar”*
+  
   *Advanced coursework in Topology, Differential Geometry, Functional Analysis, Statistical Physics, Quantum Mechanics, Mathematical and Computational Physics*
 
 ---
