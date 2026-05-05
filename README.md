@@ -16,30 +16,26 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 ## 🧠 **Education**
 
-- 🌌⚛︎**Post Doc. Nuclear Physics and Astroparticles**  
+- 🌌⚛︎**Post Doc. Nuclear Physics and Astroparticles** -------------------- 10/2017 - 09/2019
   *Laboratoire de Physique Nucléaire et de Hautes Énergies (LPNHE, CNRS/IN2P3), Paris, France*  
-  10/2017 - 09/2019
+  
   *Single-author publications in MNRAS; co-author publications in Nature and PRL within the Xenon1T Collaboration*
 
-- 🔭🌌 **Ph.D. Astroparticle Physics** (GPA: 4.0/4.0)  
+- 🔭🌌 **Ph.D. Astroparticle Physics** (GPA: 4.0/4.0) -------------------- 10/2013 - 09/2017  
   *Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy*  
-  10/2013 - 09/2017
   *Research thesis: “Dark Matter and Galaxy Rotation Curves”*
 
-- ∫🎓 **Postgraduate Diploma in High Energy Physics** (GPA: 3.9/4.0)  
+- ∫🎓 **Postgraduate Diploma in High Energy Physics** (GPA: 3.9/4.0) -------------------- 09/2012 - 08/2013
   *“Abdus Salam” International Centre for Theoretical Physics (ICTP), Trieste, Italy*  
-  09/2012 - 08/2013
   *Research thesis: “Neutrinoless Double Beta Decay and Physics Beyond the Standard Model”*
   
 
-- ∫🎓 **M.Sc. Physical Sciences** (GPA: 4.0/4.0)  
+- ∫🎓 **M.Sc. Physical Sciences** (GPA: 4.0/4.0) -------------------- 10/2009 - 12/2011  
   *University of Havana, Havana, Cuba*  
-  10/2009 - 12/2011
   *Research thesis: “Strangelets magnetizados a temperatura finita”*
 
-- ∫🎓 **Licenciado en Fı́sica – 5-year Integrated Physics Degree** (GPA: 3.8/4.0)  
+- ∫🎓 **Licenciado en Fı́sica – 5-year Integrated Physics Degree** (GPA: 3.8/4.0) -------------------- 09/2004 - 08/2009 
   *University of Havana, Havana, Cuba*  
-  09/2004 - 08/2009
   *Research thesis: “Materia de quarks magnetizada en equilibrio estelar”*
   *Advanced coursework in Topology, Differential Geometry, Functional Analysis, Statistical Physics, Quantum Mechanics, Mathematical and Computational Physics*
 
