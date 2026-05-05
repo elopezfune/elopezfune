@@ -18,7 +18,6 @@ The Covid-19 pandemic marked a turning point in my career as I transitioned to D
 
 - 🌌⚛︎**Post Doc. Nuclear Physics and Astroparticles** -------------------- 10/2017 - 09/2019
   *Laboratoire de Physique Nucléaire et de Hautes Énergies (LPNHE, CNRS/IN2P3), Paris, France*  
-  
   *Single-author publications in MNRAS; co-author publications in Nature and PRL within the Xenon1T Collaboration*
 
 - 🔭🌌 **Ph.D. Astroparticle Physics** (GPA: 4.0/4.0) -------------------- 10/2013 - 09/2017  
